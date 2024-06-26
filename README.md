@@ -26,4 +26,4 @@ python analog_clock.py
 
 ![Clock Screenshot](images/clock_screenshot.png)
 
-![Clock Screenshot](images/clock_screenshot.png)
+![Clock Screenshot](images/clock_screenshot2.png)
